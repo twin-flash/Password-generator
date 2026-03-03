@@ -29,4 +29,4 @@ A lightweight and easy-to-use password generator that creates secure and customi
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simple-password-generator.git
+git clone https://twin-flash.github.io/Password-generator/
